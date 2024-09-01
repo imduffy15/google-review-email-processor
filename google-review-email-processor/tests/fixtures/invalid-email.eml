@@ -1,0 +1,232 @@
+From: invalid@google.com
+To: reviews@example.org
+Subject: Bob left a review for ACME Co
+Message-ID: <4dda1a31-15b0-aca8-aa4b-71b0b68b6c1b@google.com>
+Content-Transfer-Encoding: quoted-printable
+Date: Sun, 01 Sep 2024 19:37:13 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html><html allow-viewer-render-template=3D"" =
+allow-xhr-interception=3D"" lang=3D"en" report-errors-to-viewer=3D"" =
+=E2=9A=A14email=3D"" ><head><meta charset=3D"utf-8" /><style =
+amp-runtime=3D"" i-amphtml-version=3D"012406131415000"></style><meta =
+content=3D"frame-src 'none'" http-equiv=3D"Content-Security-Policy" =
+/><script async=3D"" src=3D"https://cdn.ampproject.org/rtv/012406131415000/=
+v0.js" ></script><script async=3D"" src=3D"https://cdn.ampproject.=
+org/rtv/012406131415000/v0/amp-viewer-integration-0.1.js" ></script><script=
+ async=3D"" src=3D"https://cdn.ampproject.org/rtv/012406131415000/v0/amp-vi=
+ewer-integration-gmail-0.1.js" ></script><script async=3D"" =
+custom-element=3D"amp-bind" src=3D"https://cdn.ampproject.=
+org/rtv/012406131415000/v0/amp-bind-0.1.js" ></script><script async=3D"" =
+custom-element=3D"amp-list" src=3D"https://cdn.ampproject.=
+org/rtv/012406131415000/v0/amp-list-0.1.js" ></script><script async=3D"" =
+custom-template=3D"amp-mustache" src=3D"https://cdn.ampproject.=
+org/rtv/012406131415000/v0/amp-mustache-0.2.js" ></script><style =
+amp-custom=3D""> #mainlist div[role=3D"list"] { position: relative; =
+display: initial; } div { outline: none; } .show { display: block; } .hide =
+{ display: none; } .bg-1 { background-image: url("https://www.gstatic.=
+com/gumdrop/files/gmb-1-star-filled-outline-transparent-w398-h62-2x.png"); =
+} .bg-2 { background-image: url("https://www.gstatic.=
+com/gumdrop/files/gmb-2-star-filled-outline-transparent-w398-h62-2x.png"); =
+} .bg-3 { background-image: url("https://www.gstatic.=
+com/gumdrop/files/gmb-3-star-filled-outline-transparent-w398-h62-2x.png"); =
+} .bg-4 { background-image: url("https://www.gstatic.=
+com/gumdrop/files/gmb-4-star-filled-outline-transparent-w398-h62-2x.png"); =
+} .bg-5 { background-image: url("https://www.gstatic.=
+com/gumdrop/files/gmb-5-star1-transparent-w398-h62-2x.png"); } .pad-logo { =
+display: flex; justify-content: space-between; } @media (min-width: 601px) =
+{ .head-font { font-size: 38px; line-height: 46px; } .top-star-pad { =
+padding: 66px 0px 0px 0px; } .mob-hide { display: block; } .mob-show { =
+display: none; } .pad-heading { padding: 0px 52px 38px; } .text_center { =
+text-align: left; } .pad-rev-1 { padding: 0px 0px 0 65px; } .pad-t-16 { =
+padding-top: 18px; } .pad-l-60-65 { padding-left: 15px; } .pad-logo { =
+padding: 18px 50px 0px 50px; } .wid-70 { width: 116px; } .pad-new-rev { =
+padding: 17px 50px 0; } .pad-new-rev-main { padding: 0 0 0 132px; } .=
+flex-col { flex-direction: row; } .flex-col-foot { flex-direction: row; } .=
+foot-pad-t-b { padding-top: 40px; padding-bottom: 120px; } .pad-help-para {=
+ padding: 0; } .pad-new-rev-para { padding: 18px 44px 18px 0; } .=
+pad-new-rev-cta { padding: 0px 44px 0 0; } } @media (max-width: 600px) { .=
+head-font { font-size: 38px; line-height: 46px; } .top-star-pad { padding: =
+66px 0px 0px 0px; } .mob-hide { display: block; } .mob-show { display: =
+none; } .pad-heading { padding: 0px 20px 26px; } .text_center { text-align:=
+ center; } .pad-rev-1 { padding: 0px 0px 0 65px; } .pad-t-16 { padding-top:=
+ 16px; } .pad-l-60-65 { padding-left: 15px; } .pad-logo { padding: 18px =
+20px 0px 20px; } .wid-70 { width: 70px; } .pad-new-rev { padding: 17px 20px=
+ 0; } .pad-new-rev-main { padding: 0 0 0 20px; } .flex-col { =
+flex-direction: column; align-items: center; } .flex-col-foot { =
+flex-direction: row; } .foot-pad-t-b { padding-top: 40px; padding-bottom: =
+120px; } .pad-help-para { padding: 0 20px; } .pad-new-rev-para { padding: =
+18px 20px 18px 0; } .pad-new-rev-cta { padding: 0px 20px 0 0; } .=
+disp-flex-j { display: flex; justify-content: center; align-items: center; =
+} } @media (min-width: 481px) { .bprofile-logo { width: 200px; } .=
+card-margin { margin: 24px auto 0; } .card1-margin { margin: 0 auto; =
+max-width: 500px; padding-top: 30px; padding-bottom: 30px; } .f-16-l-24 { =
+font-size: 14px; line-height: 21px; } .para2_pad { padding-top: 32px; =
+padding-bottom: 28px; } .wid-500 { max-width: 500px; } .help-pad-bot { =
+padding-bottom: 48px; } .card-internal { max-width: 420px; margin: 0px 40px=
+ 0px 40px; } .footer-text { width: 320px; } .address-logo { width: 154px; }=
+ } @media (max-width: 480px) { .bprofile-logo { width: 180px; } .pad-rev-1 =
+{ padding: 0px 0px 0 60px; } .pad-t-16 { padding-top: 16px; } .pad-l-60-65 =
+{ padding-left: 10px; } .head-font { font-size: 32px; line-height: 40px; } =
+.top-star-pad { padding: 58px 0px 0px 0px; } .mob-hide { display: none; } .=
+mob-show { display: block; } .pad-logo { padding: 18px 20px 0px 20px; } .=
+card-margin { margin: 24px 20px 0; } .card1-margin { margin: 0 auto; =
+max-width: 400px; padding-top: 20px; padding-bottom: 12px; } .f-16-l-24 { =
+font-size: 16px; line-height: 24px; } .para2_pad { padding-top: 24px; =
+padding-bottom: 24px; } .wid-500 { max-width: 400px; } .help-pad-bot { =
+padding-bottom: 34px; } .card-internal { max-width: 360px; margin: 0px 20px=
+ 0px 20px; } .flex-col-foot { flex-direction: column; align-items: center; =
+} .foot-pad-t-b { padding-top: 36px; padding-bottom: 64px; } .footer-text {=
+ width: 100%; } .address-logo { width: 100%; padding-top: 28px; } } =
+</style><style amp4email-boilerplate=3D""> body { visibility: hidden; } =
+</style></head><body style=3D"background-color: #ffffff; margin: 0 =
+auto"><div style=3D"max-width: 850px; margin: 0 auto"><div =
+class=3D"pad-logo"><div class=3D"bprofile-logo" style=3D" background-image:=
+ url('https://www.gstatic.com/gumdrop/files/gmb-en-gb-transparent-w334px-h3=
+8px-2x.png'); background-size: contain; background-repeat: no-repeat; =
+height: 20px; " ></div><div><amp-img height=3D"24" src=3D"https://www.=
+gstatic.com/gumdrop/files/gmb-top-logo-transparent-w150-h48-2x.png" =
+width=3D"75" ></amp-img></div></div><div style=3D"margin: 0 auto; =
+text-align: center"><div class=3D"top-star-pad"><a href=3D"http://example.=
+org" style=3D"text-decoration: none" target=3D"_blank" rel=3D"noreferrer =
+noopener" ><amp-img alt=3D"Star Rating" class=3D"mob-hide" height=3D"31" =
+src=3D"https://www.gstatic.com/gumdrop/files/gmb-5-star1-transparent-w398-h=
+62-2x.png" style=3D"margin: 0 auto" width=3D"200" ></amp-img></a><a =
+href=3D"http://example.org" style=3D"text-decoration: none" =
+target=3D"_blank" rel=3D"noreferrer noopener" ><amp-img alt=3D"Star Rating"=
+ class=3D"mob-show" height=3D"28" src=3D"https://www.gstatic.=
+com/gumdrop/files/gmb-5-star1-transparent-w398-h62-2x.png" style=3D"margin:=
+ 0 auto" width=3D"180" ></amp-img></a></div><div style=3D"padding: 8px 0 0 =
+0"><a href=3D"http://example.org" style=3D"text-decoration: none" =
+target=3D"_blank" rel=3D"noreferrer noopener" ><amp-img height=3D"149" =
+src=3D"https://placehold.co/363x149/png" style=3D"display: block; margin: 0=
+ auto" width=3D"363" ></amp-img></a></div><div style=3D" max-width: 600px; =
+margin: 0 auto; padding-left: 20px; padding-right: 20px; " ><div =
+class=3D"pad-heading"><p class=3D"head-font" style=3D" margin: 0; =
+font-family: Google sans, Roboto, Helvetica, Arial, sans-serif; color: =
+#606368; " > Great job, you got a new 5-star review </p></div><div =
+class=3D"wid-500" style=3D"padding-bottom: 24px; margin: 0 auto"><div =
+style=3D"margin: 0 auto; display: inline-block"><a href=3D"http://example.=
+org" style=3D" display: block; text-decoration: none; border-bottom: 6px =
+solid transparent; border-right: 46px solid transparent; border-left: 46px =
+solid transparent; text-align: center; white-space: nowrap; " =
+target=3D"_blank" rel=3D"noreferrer noopener" ></a><a =
+href=3D"http://example.org" style=3D" background-color: #1a73e8; display: =
+block; border-radius: 2px; color: #ffffff; text-decoration: none; =
+font-family: Google Sans, Roboto, Helvetica Neue, Helvetica, Arial, =
+sans-serif; font-size: 14px; line-height: 21px; font-weight: 500; =
+border-top: 8px solid #1a73e8; border-right: 46px solid #1a73e8; =
+border-bottom: 8px solid #1a73e8; border-left: 46px solid #1a73e8; =
+text-align: center; white-space: nowrap; letter-spacing: 0.5px; " =
+title=3D"" target=3D"_blank" rel=3D"noreferrer noopener" > Read review =
+</a><a href=3D"http://example.org" style=3D" display: block; =
+text-decoration: none; border-bottom: 6px solid transparent; border-right: =
+46px solid transparent; border-left: 46px solid transparent; text-align: =
+center; white-space: nowrap; " target=3D"_blank" rel=3D"noreferrer =
+noopener" ></a></div></div><div class=3D"card1-margin" style=3D" =
+background-color: #ffffff; border: 1px solid #dadce0; text-align: left; =
+border-radius: 6px; " ><div class=3D"card-internal"><div style=3D"display: =
+flex; flex-direction: row"><div><div style=3D" border-radius: 25px; =
+display: flex; justify-content: flex-end; " ><amp-img height=3D"50" =
+src=3D"https://placehold.co/50x50/png" style=3D"display: block; =
+border-radius: 25px" width=3D"50" ></amp-img></div></div><div =
+class=3D"pad-l-60-65"><div style=3D"padding-bottom: 16px"><p style=3D" =
+margin: 0; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: =
+14px; color: #515354; line-height: 24px; font-weight: 500; " > Bob Hope =
+</p></div><div style=3D"padding-bottom: 18px"><amp-img alt=3D"Star Rating" =
+height=3D"15" src=3D"https://www.gstatic.com/gumdrop/files/gmb-5-star-fille=
+d-transparent-w288-h48-2x.png" style=3D"display: block" title=3D"Star =
+Rating" width=3D"92" ></amp-img></div></div></div><div =
+class=3D"pad-rev-1"><p style=3D" margin: 0; font-family: Roboto, Helvetica,=
+ Arial, sans-serif; font-size: 14px; color: #515354; line-height: 24px; " >=
+ Really good place, would recommend. </p></div><div class=3D"pad-rev-1 =
+pad-t-16"><p style=3D" margin: 0; font-family: Roboto, Helvetica Neue, =
+Helvetica, Arial, sans-serif; font-size: 14px; color: #515354; line-height:=
+ 21px; " ><a href=3D"http://example.org" style=3D"color: #1a73e8; =
+text-decoration: none" target=3D"_blank" rel=3D"noreferrer noopener" > =
+Reply to review </a></p></div></div></div><div class=3D"wid-500" =
+style=3D"margin: 0 auto"><p class=3D"f-16-l-24" style=3D" margin: 0; =
+text-align: left; font-family: Roboto, Helvetica, Arial, sans-serif; color:=
+ #606368; padding-top: 30px; " > Replying to customer reviews helps build =
+trust. We'll let Bob know when you've replied. </p></div><div =
+style=3D"display: block"><amp-list height=3D"1" id=3D"mainlist" =
+items=3D"RelatedReviews" layout=3D"responsive" src=3D"http://example.org" =
+style=3D"height: auto" width=3D"100" ><template type=3D"amp-mustache"><div =
+style=3D"display: block"><div class=3D"wid-500" style=3D"margin: 0 auto"><p=
+ class=3D"f-16-l-24 para2_pad" style=3D" margin: 0; text-align: left; =
+font-family: Roboto, Helvetica, Arial, sans-serif; color: #606368; " > =
+Here=E2=80=99s a review that you haven=E2=80=99t responded to yet: =
+</p></div><div class=3D"card1-margin" style=3D" background-color: #ffffff; =
+border: 1px solid #dadce0; text-align: left; border-radius: 6px; " ><div =
+class=3D"card-internal"><div style=3D"display: flex; flex-direction: =
+row"><div><div style=3D" border-radius: 25px; display: flex; =
+justify-content: flex-end; " ><amp-img height=3D"50" =
+src=3D"{{ReviewerPhoto}}" style=3D"display: block; border-radius: 25px" =
+width=3D"50" ></amp-img></div></div><div class=3D"pad-l-60-65"><div =
+style=3D"padding-bottom: 16px"><p style=3D" margin: 0; font-family: Roboto,=
+ Helvetica, Arial, sans-serif; font-size: 14px; color: #515354; =
+line-height: 24px; font-weight: 500; " > {{ReviewAuthor}} </p></div><div =
+style=3D"padding-bottom: 18px"><div [class]=3D"{{ReviewRating}} =3D=3D 5 ? =
+'bg-5' : ( {{ReviewRating}} =3D=3D 4 ? 'bg-4' : ( {{ReviewRating}} =3D=3D 3=
+ ? 'bg-3' : ( {{ReviewRating}} =3D=3D 2 ? 'bg-2' : 'bg-1')))" =
+class=3D"bg-1" style=3D" width: 92px; height: 15px; background-size: 100% =
+100%; " ></div></div></div></div><div class=3D"pad-rev-1"><p style=3D" =
+margin: 0; font-family: Roboto, Helvetica, Arial, sans-serif; font-size: =
+14px; color: #515354; line-height: 24px; " > {{ReviewSnippet}} =
+</p></div><div class=3D"pad-rev-1" style=3D"padding-top: 18px"><a =
+href=3D"http://example.org" style=3D" margin: 0; font-family: Roboto, =
+Helvetica, Arial, sans-serif; font-size: 14px; color: #4285f4; line-height:=
+ 25px; text-decoration: none; " title=3D"" target=3D"_blank" > Reply to =
+review </a></div></div></div></div></template></amp-list></div><div =
+class=3D"para2_pad" style=3D"padding-top: 0px"></div><div style=3D"margin: =
+0 auto; display: inline-block"><a href=3D"http://example.org" style=3D" =
+display: block; text-decoration: none; border-bottom: 6px solid =
+transparent; border-right: 18px solid transparent; border-left: 18px solid =
+transparent; text-align: center; white-space: nowrap; " target=3D"_blank" =
+rel=3D"noreferrer noopener" ></a><div style=3D" margin: 0 auto; =
+border-radius: 2px; background-color: #ffffff; color: #1a73e8; text-align: =
+center; vertical-align: middle; border: 1px solid #afc0cf; " ><a =
+href=3D"http://example.org" style=3D" display: block; border-radius: 2px; =
+color: #1a73e8; text-decoration: none; font-family: Google Sans, Roboto, =
+Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 14px; line-height:=
+ 21px; font-weight: 500; border-top: 8px solid transparent; border-right: =
+18px solid transparent; border-bottom: 8px solid transparent; border-left: =
+18px solid transparent; text-align: center; white-space: nowrap; =
+letter-spacing: 0.5px; " target=3D"_blank" rel=3D"noreferrer noopener" > =
+See all reviews </a></div><a href=3D"http://example.org" style=3D" display:=
+ block; text-decoration: none; border-bottom: 6px solid transparent; =
+border-right: 18px solid transparent; border-left: 18px solid transparent; =
+text-align: center; white-space: nowrap; " target=3D"_blank" =
+rel=3D"noreferrer noopener" ></a></div><div class=3D"wid-500 help-pad-bot" =
+style=3D"display: flex; margin: 0 auto; padding-top: 40px" ><div><amp-img =
+height=3D"23" src=3D"https://placehold.co/27x23/png" style=3D"display: =
+block" width=3D"27" ></amp-img></div><div><p style=3D" margin: 0; =
+text-align: left; font-family: Roboto, Helvetica, Arial, sans-serif; =
+font-size: 14px; color: #606368; line-height: 24px; padding-left: 15px; " >=
+ Visit the <a href=3D"http://example.org" style=3D"text-decoration: none; =
+color: #1a73e8" target=3D"_blank" rel=3D"noreferrer noopener" > Help Centre=
+ </a> to learn more. </p></div></div></div></div><div =
+style=3D"background-color: #dadce0"><div class=3D"foot-pad-t-b" =
+style=3D"padding-top: 40px; display: flex"><div class=3D"flex-col-foot =
+pad-help-para" dir=3D"rtl" style=3D"margin: 0 auto; display: flex; =
+max-width: 500px" ><div class=3D"footer-text" dir=3D"ltr"><p style=3D" =
+margin: 0; color: #515354; font-family: Roboto, Helvetica Neue, Helvetica, =
+Arial, sans-serif; font-size: 10px; line-height: 14px; letter-spacing: 0.=
+2px; text-align: left; " > This email was sent to you because you indicated=
+ that you=E2=80=99d like to receive updates about reviews of your Business =
+&nbsp;Profile. If you don't want to receive such emails in the future, =
+please unsubscribe <a href=3D"http://example.org" style=3D" color: #1967d2;=
+ display: inline-block; text-decoration: none; " target=3D"_blank" =
+rel=3D"noreferrer noopener" > here </a> . </p></div><div class=3D"mob-hide"=
+ dir=3D"ltr" style=3D"padding-right: 28px"><div style=3D"width: 1px; =
+height: 80px; background-color: #515354" ></div></div><div =
+class=3D"address-logo" dir=3D"ltr" style=3D"padding-left: 3px"><amp-img =
+height=3D"27" src=3D"https://placehold.co/85x27/png" style=3D"display: =
+block" width=3D"85" ></amp-img><p style=3D" margin: 0; font-family: Roboto,=
+ Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 10px; =
+line-height: 15px; color: #515354; text-align: left; padding-top: 6px; " > =
+=C2=A9 2024 Google Ireland Ltd, <br /> Gordon House, Barrow Street, <br /> =
+Dublin 4, Ireland. </p></div></div></div></div></div><amp-img alt=3D"" =
+height=3D"1" src=3D"https://placehold.co/3x1/png" width=3D"3" =
+></amp-img></body></html>
